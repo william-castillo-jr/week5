@@ -1,0 +1,13 @@
+{
+  "name": "williamcastillojr/328/week5",
+  "description": "Software Development Week5 Page",
+  "authors": [
+    {
+      "name": "Will Castillo",
+      "email": "castillo.william@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
